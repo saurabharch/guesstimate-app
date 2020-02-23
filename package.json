@@ -128,7 +128,7 @@
     "react-redux": "^5.0.7",
     "react-share": "^1.8.0",
     "react-sortable": "^2.0.0",
-    "react-tooltip": "^3.6.1",
+    "react-tooltip": "^3.11.3",
     "redux": "^4.0.0",
     "redux-crud": "^0.10.1",
     "redux-saga": "^0.16.0",
