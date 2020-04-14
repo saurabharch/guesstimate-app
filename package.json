@@ -94,7 +94,7 @@
     "form-serialize": "^0.7.2",
     "gen-uid": "^0.0.2",
     "ionicons": "^3.0.0",
-    "jquery": "^3.3.0",
+    "jquery": "^3.5.0",
     "jstat": "^1.7.1",
     "jsx-loader": "^0.13.2",
     "local-links": "^1.4.0",
