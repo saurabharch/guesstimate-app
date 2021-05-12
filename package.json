@@ -101,7 +101,7 @@
     "lodash": "^4.17.10",
     "lodash.assign": "^4.0.9",
     "lodash.defaults": "^4.0.1",
-    "mathjs": "^5.0.0",
+    "mathjs": "^7.5.1",
     "moment": "^2.22.2",
     "node-uuid": "^1.4.8",
     "numeral": "~2.0.6",
