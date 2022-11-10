@@ -86,7 +86,7 @@
     "discrete-sampling": "^1.0.3",
     "draft-js": "^0.10.5",
     "everpolate": "^0.0.3",
-    "extract-text-webpack-plugin": "^1.0.1",
+    "extract-text-webpack-plugin": "^2.0.0",
     "financejs": "^4.1.0",
     "find-root": "^1.1.0",
     "flexboxgrid": "^6.3.0",
