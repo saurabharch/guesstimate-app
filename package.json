@@ -69,7 +69,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
-    "algoliasearch": "^3.29.0",
+    "algoliasearch": "^4.0.0",
     "ampersand-app": "^1.0.4",
     "ampersand-router": "^3.0.2",
     "angle-between-points": "^1.0.0",
